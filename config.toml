@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://valt.github.io"
+baseurl = "http://valtinc.github.io/"
 languageCode = "en-us"
 title = "Valt"
 theme = "hugo-agency-theme"
